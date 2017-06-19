@@ -6,3 +6,6 @@ Links to help me on the way with Site Reliability Engineering
 * [Site Reliability Engineering at Dropbox](https://www.youtube.com/watch?v=ggizCjUCCqE)
 * [Site Reliability Engineering: How Google Runs Production Systems](https://www.goodreads.com/book/show/27968891-site-reliability-engineering)
 *[Episódio 98: Rodolpho Eckhardt - YouTube, Google e SRE](http://castalio.info/episodio-98-rodolpho-eckhardt-youtube-google-e-sre.html)
+* [Site Reliability Engineering](https://landing.google.com/sre/)
+* [What is the role of a Site Reliability Engineer?](https://cloudacademy.com/blog/what-is-the-role-of-a-site-reliability-engineer/)
+* [Love DevOps? Wait until you meet SRE](https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre)
